@@ -5,7 +5,7 @@ node_modules/
 /node_modules/
 dist
 coverage
-
+/mysql/db/data
 # Packages #
 ############
 *.7z
